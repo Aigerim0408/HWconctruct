@@ -14,7 +14,7 @@ public class Class {
 
     @Override
     public String toString() {
-        return "Class{" +
+        return "Class: " + "\n"+
                 "name: " + name + "\n" +
                 "phoneNum: " + phoneNum +"\n"+
                 "massiv: " + Arrays.toString(massiv);
